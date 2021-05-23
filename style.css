@@ -1,0 +1,17 @@
+html{
+background-color:#B0C4DE;
+}
+.container{
+  text-align: center;
+  margin:150px 150px 80px 150px;
+}
+
+h1{
+  font-size:80px;
+  text-align: center;
+}
+
+p{
+  font-size: 20px;
+  text-align:center;
+}
